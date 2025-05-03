@@ -10,7 +10,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/let.html"
+      "dest": "/exness.js"
     }
   ]
 }
